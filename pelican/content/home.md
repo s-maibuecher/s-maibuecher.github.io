@@ -1,6 +1,5 @@
 Title: first blog entry
 Date: 2023-08-17 23:20
-Category: Hello
 Category: Private
 Tags: welcome
 Author: Stefan Maibücher
