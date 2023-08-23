@@ -1,9 +1,12 @@
-Title: initial blog entry
+Title: first blog entry
 Date: 2023-08-17 23:20
 Category: Hello
+Category: Private
+Tags: welcome
+Author: Stefan Maibücher
+Summary: First Entry to test pelican
 
-# Stefan Maibücher's Blog
-## Dev from Cologne, Germany
+
 
 Hi. Welcome. I use this blog to write down the things, I've learned and find interesting.
 
